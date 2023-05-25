@@ -4,7 +4,9 @@ agent any
         stage ('build'){
         steps{
             echo "satish"
+            12.2.2.2:900
         }
+        
     }
 }
 }
